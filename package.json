@@ -1,0 +1,22 @@
+{
+  "name": "page-fecther",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simarjeet518/page-fecther.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simarjeet518/page-fecther/issues"
+  },
+  "homepage": "https://github.com/simarjeet518/page-fecther#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
